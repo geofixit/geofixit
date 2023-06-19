@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+**geofixit/geofixit** is a 
+
 - 👋 Hi, I’m @geofixit
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
