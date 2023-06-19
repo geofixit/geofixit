@@ -1,6 +1,4 @@
-## Hi there! 👋 
 
-Welcome to my page!
 ## Education
 - [Tarlac State University](http://tsu.edu.ph/)
 
